@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/helloworld-app/helloworld-app.iml" filepath="$PROJECT_DIR$/helloworld-app/helloworld-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/input-app/input-app.iml" filepath="$PROJECT_DIR$/input-app/input-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchmovies/searchmovies.iml" filepath="$PROJECT_DIR$/searchmovies/searchmovies.iml" />
     </modules>
   </component>
 </project>
